@@ -85,4 +85,5 @@ upload new https://signatures.banner/logo.png
 ```
 
 Output:
+
 ![image](https://github.com/canvacanva/Signature-HTML-Example/assets/17501324/4a125e44-c019-43d1-b6ac-d268a3c8d3c0)
