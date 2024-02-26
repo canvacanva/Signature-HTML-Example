@@ -8,7 +8,7 @@
 ### Outlook app config
 Outlook -> Create new empty signanture, save (eg TEST)
 
-Navigate to %appdata%\Roaming\Microsoft\Signatures, edit TEST***.htm using notepad, delete all and copy as follow
+Navigate to %appdata%\Microsoft\Signatures, edit TEST***.htm using notepad, delete all and copy as follow
 ```
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <html>
@@ -48,3 +48,6 @@ Output:
 
 ![image](https://github.com/canvacanva/Signature-HTML-Example/assets/17501324/5e131584-4a94-43aa-93fc-876aa52d1d0e)
 
+
+### Outlook Web / MacOS / Other Apps
+Create new HTML file like described on  ***Outlook app config***, open in a browser and copy in signature app menu.
