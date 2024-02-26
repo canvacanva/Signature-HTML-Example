@@ -51,3 +51,12 @@ Output:
 
 ### Outlook Web / MacOS / Other Apps
 Create new HTML file like described on  ***Outlook app config***, open in a browser and copy in signature app menu.
+
+### Edit logo
+Uploading new logo (png) using same name will update logo in signatures:
+
+```
+create new logo.png
+delete https://signatures.banner/logo.png
+upload new https://signatures.banner/logo.png
+```
