@@ -30,7 +30,7 @@ server {
 }
 ```
 
-### Outlook app config
+## Outlook app config
 Outlook -> Create new empty signanture, save (eg TEST)
 
 Navigate to %appdata%\Microsoft\Signatures, edit TEST***.htm using notepad, delete all and copy as follow
@@ -72,10 +72,10 @@ Output:
 ![image](https://github.com/canvacanva/Signature-HTML-Example/assets/17501324/5e131584-4a94-43aa-93fc-876aa52d1d0e)
 
 
-### Outlook Web / MacOS / Other Apps
+## Outlook Web / MacOS / Other Apps
 Create new HTML file like described on  ***Outlook app config***, open in a browser and copy in signature app menu.
 
-### Edit logo
+## Edit logo
 Uploading new logo (png) using same name will update logo in signatures:
 
 ```
