@@ -45,5 +45,6 @@ Example:
 ```
 
 Output:
+
 ![image](https://github.com/canvacanva/Signature-HTML-Example/assets/17501324/5e131584-4a94-43aa-93fc-876aa52d1d0e)
 
